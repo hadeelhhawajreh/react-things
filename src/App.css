@@ -1,7 +1,53 @@
 .App {
+  text-align: left;
+  padding-left: 50px;
+  background-color: rgb(255, 254, 248);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+.div-header{
+  padding: 20;
+  display: inline-block;
+
+
+}
+.mainhead{
   text-align: center;
+  
+  color: green;
+
+}
+h4{
+
+
 }
 
+.div-footer{
+
+}
+.main{
+
+}
+.form{
+  margin: 20px;
+
+}
+.uol{
+  /* border: 1px solid red; */
+
+}
+ul li{
+  list-style: none;
+}
+label{
+  padding-right: 20px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+label ,input {
+  margin-top:20px;
+  border-radius:5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
